@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+1b6c8122b761443f185d4ca6441dfdf7 CMakeFiles/Hello_triangle-GLES2-PVR_PSP2.self
+60b2bb6be441514dcc8c1d6a0f9486f9 CMakeFiles/Hello_triangle-GLES2-PVR_PSP2.vpk
+d49a1e2a7af893d0ce7a4cd37093681c Hello_triangle-GLES2-PVR_PSP2.self.out
+19b1a8e52a50d04c0f1ff2cec2b1c8a0 Hello_triangle-GLES2-PVR_PSP2.velf
+acb16edfc5ad6d346482d1f43ba53c14 Hello_triangle-GLES2-PVR_PSP2.vpk.out
+9ed501639875deeedfac9fea50aa8d87 Hello_triangle-GLES2-PVR_PSP2.vpk_param.sfo
